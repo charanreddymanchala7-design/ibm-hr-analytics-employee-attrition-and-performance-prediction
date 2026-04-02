@@ -8,22 +8,13 @@
     <img src="https://media0.giphy.com/media/3o85xGdsSCHfTPBJok/giphy.gif?cid=ecf05e47l31i9etrpyq28fkfu8e6m1kpgrwngdx1ga4zx5n6&rid=giphy.gif&ct=g">
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### HR ANALYTICS
 HR analytics is the process of collecting and analyzing Human Resource (HR) data in order to improve an organization's workforce performance. The process can also be referred to as talent analytics, people analytics, or even workforce analytics. This method of data analysis takes data that is routinely collected by HR and correlates it to HR and organizational objectives. Doing so provides measured evidence of how HR initiatives are contributing to the organization's goals and strategies.
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### OBJECTIVE
 Employee attrition is the rate at which employees leave a company. The goal of this analysis is to model employee attrition and determine the most dominant contributing factors that govern this turnover. Through this kind of analysis, we can understand how many employees are likely to leave, while also determining which employees are at the highest risk and for what reasons.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ### MOTIVATION
 The project stems from the potential to improve employee satisfaction, reduce costs, enhance organizational performance, and create a positive workplace culture. It is an opportunity to use data and analytics to make meaningful changes that benefit both employees and the organization as a whole.
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### SYSTEM ARCHITECTURE
 
@@ -43,8 +34,6 @@ The project stems from the potential to improve employee satisfaction, reduce co
 - Results: The results, including the accuracy and confusion matrix, are printed for each algorithm.
 - Model Performance Comparison: The hvPlot library is used to visualize the ROC curve diagram comparing the performance of all models used.
 ```
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### DATASET
 This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee's background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
@@ -88,10 +77,6 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 35] YearsWithCurrManager
 ```
 
-Dataset Link:
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### LIBRARIES USED:
 ```
@@ -108,8 +93,6 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Warnings
 ```
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ### PREREQUISITES
 ```
 - Python Programming
@@ -121,8 +104,6 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Machine Learning Algorithms
 - Performance Metrics.
 ```
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### MODEL EVALUATION
 
@@ -136,18 +117,14 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 | CatBoost                  |            0.9845             |           0.8503            |
 | AdaBoost                  |            0.9077             |           0.8322            |
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### COMPARING MODEL PERFORMANCE USING ROC CURVE
 
 <div align="center"> <img src="IMAGES/File-6-ROC-Curve.png" alt="ROC Curve"> </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ### CONCLUSION
 In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics Attrition Dataset, from data loading to model evaluation. By implementing and evaluating various machine learning algorithms, we gained insights into which models are effective for predicting employee attrition. The results and visualizations generated throughout the process provide valuable information for decision-makers and HR professionals seeking to understand and mitigate employee attrition within the organization. This project showcases the power of data analysis and machine learning in addressing real-world business challenges.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### REFERENCES
 ```
@@ -167,13 +144,6 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 - 14] N. Mansor, N. S. Sani, and M. Aliff, "Machine Learning for Predicting Employee Attrition," Int. J. Adv. Comput. Sci. Appl., vol. 12, no. 11, pp. 435-445, 2021, doi: 10.14569/IJACSA.2021.0121149.
 - 15] D. Saisanthiya, V. M. Gayathri, and P. Supraja, "Employee Attrition Prediction Using Machine Learning and Sentiment Analysis," Int. J. Adv. Trends Comput. Sci. Eng., vol. 9, no. 5, pp. 7550-7557, 2020, doi: 10.30534/ijatcse/2020/91952020.
 ```
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### LICENSE
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
- 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ABOUT THE DEVELOPER
 This repository is maintained by Charan Reddy Manchala, a 5x Certified Salesforce Developer with over 8 years of experience in building scalable technical solutions. With a focus on data-driven decision making and performance optimization, this project explores the practical application of machine learning within the HR domain.
